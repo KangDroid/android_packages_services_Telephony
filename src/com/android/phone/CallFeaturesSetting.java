@@ -47,6 +47,7 @@ import android.preference.PreferenceActivity;
 import android.preference.PreferenceManager;
 import android.preference.PreferenceScreen;
 import android.provider.ContactsContract.CommonDataKinds;
+import android.preference.SwitchPreference;
 import android.provider.Settings;
 import android.telecom.TelecomManager;
 import android.telephony.PhoneNumberUtils;
