@@ -92,6 +92,11 @@
         android:entries="@array/call_recording_encoder_entries"
         android:entryValues="@array/call_recording_encoder_values"
         android:persistent="false" />
+		
+    <SwitchPreference
+        android:key="use_non_intrusive_call"
+        android:title="@string/use_non_intrusive_call_title"
+        android:persistent="false" />
 
     <PreferenceScreen
         android:key="button_fdn_key"

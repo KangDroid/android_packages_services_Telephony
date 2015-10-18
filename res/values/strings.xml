@@ -1262,4 +1262,7 @@
     <string name="sim_label_emergency_calls">Emergency calls</string>
     <string name="sim_description_emergency_calls">Emergency calling only</string>
     <string name="sim_description_default">SIM card, slot: <xliff:g id="slot_id">%s</xliff:g></string>
+	
+    <!-- Title for the option managing whether or not to use non-intrusive incall UI. -->
+    <string name="use_non_intrusive_call_title">Non-intrusive incoming calls</string>
 </resources>
